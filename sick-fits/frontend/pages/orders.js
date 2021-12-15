@@ -1,7 +1,9 @@
+import Page from '../components/Page';
+
 export default function OrdersPage() {
   return (
-    <div>
+    <Page>
       <p>Howdy Orders Page</p>
-    </div>
+    </Page>
   );
 }
